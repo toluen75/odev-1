@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #e9ecef;
+    
+   
+}
+
+
+
+
+nav .logo{
+    color: orangered;
+}
+
+nav .logo:hover{
+    color: orangered;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: none;
+    
+}
+
+
+.main{
+    margin: 40px 40px;
+}
+
+.container h1{
+    color: firebrick;
+}
+
+.container h2{
+    color: orange;
+}
+
+.urun{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+h3{
+    color: orange;
+}
+
+h1{
+    color: mediumpurple;
+}
